@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KurikuBook (Kelas X)</string>
+    <string name="close_app">Tutup App</string>
+    <string name="copy_error">Salin Error</string>
+    <string name="matematika">Matematika</string>
+    <string name="bahasa_indonesia">Bahasa Indonesia</string>
+    <string name="bahasa_inggris">Bahasa Inggris</string>
+    <string name="sejarah">Sejarah</string>
+    <string name="ppkn">PPKN</string>
+    <string name="pjok">PJOK</string>
+    <string name="senbud_s1">Seni Budaya Semester 1</string>
+    <string name="senbud_s2">Seni Budaya Semester 2</string>
+</resources>
